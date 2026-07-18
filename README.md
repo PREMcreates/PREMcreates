@@ -280,9 +280,7 @@ Product Thinking
 
 
 </div> <br> <div align="center">
-
-I learn by building, explore by experimenting and grow by continuously improving.
-
+<p> <b><font size="4">I learn by building, explore by experimenting and grow by continuously improving.</font></b> </p>
 </div>
 
 📊 GitHub Statistics
