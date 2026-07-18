@@ -76,29 +76,23 @@ I enjoy building projects, learning through practical implementation and explori
 
 <img src="https://skillicons.dev/icons?i=mongodb,mysql,gcp" />
 
-<br>
 
 ## 🧑‍💻 IDEs & Development Environment
 
 <img src="https://skillicons.dev/icons?i=vscode,idea" />
 
-<br>
-
 <img src="https://img.shields.io/badge/Antigravity-111827?style=for-the-badge">
 <img src="https://img.shields.io/badge/Cursor-111827?style=for-the-badge&logo=cursor">
 
-<br><br>
 
 ## 🎨 Design & Product
 
 <img src="https://skillicons.dev/icons?i=figma" />
 
-<br><br>
 
 <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white">
 <img src="https://img.shields.io/badge/Google%20Stitch-4285F4?style=for-the-badge&logo=google&logoColor=white">
 
-<br><br>
 
 ## 🛠️ Tools & Technologies
 
@@ -212,7 +206,6 @@ A simple and intuitive task management application to track progress and organiz
 </div>
 
 ---
-
 # 🏆 Achievements & Experience
 
 ```text
@@ -246,7 +239,6 @@ A simple and intuitive task management application to track progress and organiz
         ▼
 🧠 Gen AI Labs
    30+ Badges Earned
-```text
 
 
 
