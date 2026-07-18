@@ -243,7 +243,7 @@ A simple and intuitive task management application to track progress and organiz
 
 
 # 💡 Code × Explore × Design
-<div align="center">
+<div align="center" width="100%">
 <table width="100%">
 <tr>
 <td width="33.33%" valign="top">
