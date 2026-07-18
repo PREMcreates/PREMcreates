@@ -244,9 +244,9 @@ A simple and intuitive task management application to track progress and organiz
 
 # 💡 Code × Explore × Design
 <div align="center">
-<table>
+<table width="100%">
 <tr>
-<td width="50%" valign="top">
+<td width="33.33%" valign="top">
 
 ### 💻 Code
 
@@ -257,7 +257,7 @@ while (learning) {
     repeat();
 }
 ```
-</td> <td width="50%" valign="top">
+</td> <td width="33.33%" valign="top">
 
 ### 🤖 Explore
 ```text
@@ -267,7 +267,7 @@ Modern AI Tools
 Automation
 New Technologies
 ```
-</td> <td width="50%" valign="top">
+</td> <td width="33.33%" valign="top">
 
 ### 🎨 Design
 ```text
@@ -276,7 +276,10 @@ Figma
 Canva
 Product Thinking
 ```
-</td> </tr> </table> </div> <br> <div align="center">
+</td> </tr> </table> 
+
+
+</div> <br> <div align="center">
 
 I learn by building, explore by experimenting and grow by continuously improving.
 
