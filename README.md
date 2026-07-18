@@ -76,13 +76,13 @@ I enjoy building projects, learning through practical implementation and explori
 
 <img src="https://skillicons.dev/icons?i=mongodb,mysql,gcp" />
 
-<br><br>
+<br>
 
 ## 🧑‍💻 IDEs & Development Environment
 
 <img src="https://skillicons.dev/icons?i=vscode,idea" />
 
-<br><br>
+<br>
 
 <img src="https://img.shields.io/badge/Antigravity-111827?style=for-the-badge">
 <img src="https://img.shields.io/badge/Cursor-111827?style=for-the-badge&logo=cursor">
