@@ -248,7 +248,7 @@ A simple and intuitive task management application to track progress and organiz
 <table>
 <tr>
 
-<td width="40%" valign="top">
+<td width="50%" valign="top">
 
 ### 💻 Code
 
