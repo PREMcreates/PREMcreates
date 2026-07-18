@@ -1,4 +1,5 @@
-<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ffffff,50:ede9fe,100:6C63FF&height=120&section=header"/><div align="center">
 
 # 👋 Hi, I'm <span style="color:#6C63FF;">Prem Panchal</span>
 
@@ -6,7 +7,7 @@
 
 <br>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ffffff,50:ede9fe,100:6C63FF&height=120&section=header"/>
+
 
 </div>
 
@@ -246,7 +247,7 @@ A simple and intuitive task management application to track progress and organiz
 🧠 Gen AI Labs
    30+ Badges Earned
 
----
+
 
 # 💡 Code × Explore × Design
 
