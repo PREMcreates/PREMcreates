@@ -258,6 +258,7 @@ while (learning) {
     build();
     repeat();
 }
+```
 </td> <td width="33%" valign="top">
 🤖 Explore
 AI
