@@ -287,13 +287,17 @@ Product Thinking
 ### 📊 GitHub Statistics
 <div align="center"> <img height="180em" src="https://github-readme-stats.vercel.app/api?username=PREMcreates&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=tokyonight&bg_color=0D1117&title_color=6C63FF&icon_color=8B5CF6&text_color=FFFFFF"/> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PREMcreates&layout=compact&hide_border=true&theme=tokyonight&bg_color=0D1117&title_color=6C63FF&text_color=FFFFFF"/> </div> <br> <div align="center"> <img width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=PREMcreates&theme=tokyonight&hide_border=true&background=0D1117&ring=6C63FF&fire=8B5CF6&currStreakLabel=6C63FF&sideLabels=FFFFFF&dates=FFFFFF"/> </div>
 
-📈 My GitHub Activity
+### 📈 My GitHub Activity
 <div align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=PREMcreates&bg_color=0D1117&color=FFFFFF&line=6C63FF&point=FFFFFF&area=true&hide_border=true" width="95%"> </div> <br> <div align="center">
-🧠 Every Contribution Is One Step Forward
+
+### 🧠 Every Contribution Is One Step Forward
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=PREMcreates&theme=tokyonight" width="95%"> </div>
-🌐 Connect With Me
+
+### 🌐 Connect With Me
 <div align="center"> <a href="https://www.linkedin.com/in/prempanchal05/"> <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"> </a> <a href="https://www.instagram.com/bhaktipathik.hai.prem/"> <img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white"> </a> <a href="https://leetcode.com/u/PREMcreates/"> <img src="https://img.shields.io/badge/LeetCode-Solve-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"> </a> <a href="mailto:prempanchal0501@gmail.com"> <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"> </a> </div>
-<br> <div align="center">
+
+<br> 
+<div align="center">
 Think → Code → Create → Deploy → Repeat
 🚀 Keep Learning. Keep Building. Keep Growing.
 <br> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,50:8B5CF6,100:ffffff&height=120&section=footer"/> </div> ```
