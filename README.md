@@ -259,6 +259,7 @@ while (learning) {
     repeat();
 }
 ```
+```text
 </td> <td width="33%" valign="top">
 🤖 Explore
 AI
@@ -266,12 +267,15 @@ Prompt Engineering
 Modern AI Tools
 Automation
 New Technologies
+```
+```text
 </td> <td width="33%" valign="top">
 🎨 Design
 UI/UX
 Figma
 Canva
 Product Thinking
+```
 </td> </tr> </table> </div> <br> <div align="center">
 
 I learn by building, explore by experimenting and grow by continuously improving.
