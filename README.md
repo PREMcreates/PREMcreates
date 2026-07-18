@@ -1,5 +1,5 @@
 <div align="center">
-
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ffffff,50:ede9fe,100:6C63FF&height=120&section=header"/>
 <img src="https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif"/>
 
 # 👋 Hi, I'm <span style="color:#6C63FF;">Prem Panchal</span>
