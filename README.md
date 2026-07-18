@@ -284,21 +284,43 @@ Product Thinking
 </div>
 
 
-### 📊 GitHub Statistics
+# 📊 GitHub Statistics
 
 <div align="center">
-```text
-<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=PREMcreates&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=tokyonight&bg_color=0D1117&title_color=6C63FF&icon_color=8B5CF6&text_color=FFFFFF"/> 
 
-<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=PREMcreates&layout=compact&hide_border=true&theme=tokyonight&bg_color=0D1117&title_color=6C63FF&text_color=FFFFFF"/>
-```
-```text
+<table width="100%">
+<tr>
+
+<td width="33.33%" valign="top" align="center">
+
+### 📊 GitHub Stats
+
+<img src="https://github-readme-stats-eight-theta.vercel.app/api?username=PREMcreates&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=tokyonight&bg_color=0D1117&title_color=6C63FF&icon_color=8B5CF6&text_color=FFFFFF" width="100%"/>
+
+</td>
+
+<td width="33.33%" valign="top" align="center">
+
+### 🔥 Streak
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=PREMcreates&theme=tokyonight&hide_border=true&background=0D1117&ring=6C63FF&fire=8B5CF6&currStreakLabel=6C63FF&sideLabels=FFFFFF&dates=FFFFFF" width="100%"/>
+
+</td>
+
+<td width="33.33%" valign="top" align="center">
+
+### 💻 Top Languages
+
+<img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=PREMcreates&layout=compact&hide_border=true&theme=tokyonight&bg_color=0D1117&title_color=6C63FF&text_color=FFFFFF" width="100%"/>
+
+</td>
+
+</tr>
+</table>
+
 </div>
-<br>
-<div align="center">
-<img width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=PREMcreates&theme=tokyonight&hide_border=true&background=0D1117&ring=6C63FF&fire=8B5CF6&currStreakLabel=6C63FF&sideLabels=FFFFFF&dates=FFFFFF"/>
-</div>
-```
+
+
 
 ### 📈 My GitHub Activity
 <div align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=PREMcreates&bg_color=0D1117&color=FFFFFF&line=6C63FF&point=FFFFFF&area=true&hide_border=true" width="95%"> </div> <br> <div align="center">
