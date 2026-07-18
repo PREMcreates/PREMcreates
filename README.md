@@ -259,8 +259,8 @@ while (learning) {
     repeat();
 }
 ```
-```text
 </td> <td width="33%" valign="top">
+```text
 🤖 Explore
 AI
 Prompt Engineering
@@ -268,8 +268,8 @@ Modern AI Tools
 Automation
 New Technologies
 ```
-```text
 </td> <td width="33%" valign="top">
+```text
 🎨 Design
 UI/UX
 Figma
