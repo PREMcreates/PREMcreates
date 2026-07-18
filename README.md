@@ -259,7 +259,7 @@ while (learning) {
     repeat();
 }
 ```
-</td> <td width="40%" valign="top">
+</td> <td width="50%" valign="top">
 
 ### 🤖 Explore
 ```text
@@ -269,7 +269,7 @@ Modern AI Tools
 Automation
 New Technologies
 ```
-</td> <td width="40%" valign="top">
+</td> <td width="50%" valign="top">
 
 ### 🎨 Design
 ```text
