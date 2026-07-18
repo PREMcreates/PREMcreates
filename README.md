@@ -241,13 +241,11 @@ A simple and intuitive task management application to track progress and organiz
    30+ Badges Earned
 ```
 
+
 # 💡 Code × Explore × Design
-
 <div align="center">
-
 <table>
 <tr>
-
 <td width="50%" valign="top">
 
 ### 💻 Code
