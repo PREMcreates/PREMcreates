@@ -239,8 +239,7 @@ A simple and intuitive task management application to track progress and organiz
         ▼
 🧠 Gen AI Labs
    30+ Badges Earned
-
-
+```
 
 # 💡 Code × Explore × Design
 
