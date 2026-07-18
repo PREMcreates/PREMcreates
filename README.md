@@ -1,6 +1,6 @@
 ![MasterHead](https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif)
 <h1 align="center">Hi 👋, I'm Prem Panchal</h1>
-<h3 align="center">Curious and Explorer AI-Frontend Developer | Vibe Coder | Digital Content Creator</h3>
+<h3 align="center">Curious and Explorer AI-Frontend Developer | Vibe Coder | UI/UX Designer</h3>
 <img align="right" alt="coding" width="400" src="https://i.giphy.com/kSlj8H6LbhuWQ.webp">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=premcreates&label=Profile%20views&color=0e75b6&style=flat" alt="premcreates" /> </p>
@@ -12,7 +12,6 @@
 
 - 📫 How to reach me **prempanchal0501@gmail.com**
 
-<br/>
 <br/>
 
 ## 🌐 Socials: <br/><br/><br/>
