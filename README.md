@@ -291,7 +291,7 @@ Product Thinking
 <table width="100%">
 <tr>
 
-<td width="33.33%" valign="top" align="center">
+<td width="50%" valign="top" align="center">
 
 ### 📊 GitHub Stats
 
@@ -299,19 +299,23 @@ Product Thinking
 
 </td>
 
-<td width="33.33%" valign="top" align="center">
-
-### 🔥 Streak
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=PREMcreates&theme=tokyonight&hide_border=true&background=0D1117&ring=6C63FF&fire=8B5CF6&currStreakLabel=6C63FF&sideLabels=FFFFFF&dates=FFFFFF" width="100%"/>
-
-</td>
-
-<td width="33.33%" valign="top" align="center">
+<td width="50%" valign="top" align="center">
 
 ### 💻 Top Languages
 
 <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=PREMcreates&layout=compact&hide_border=true&theme=tokyonight&bg_color=0D1117&title_color=6C63FF&text_color=FFFFFF" width="100%"/>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td colspan="2" valign="top" align="center">
+
+### 🔥 GitHub Streak
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=PREMcreates&theme=tokyonight&hide_border=true&background=0D1117&ring=6C63FF&fire=8B5CF6&currStreakLabel=6C63FF&sideLabels=FFFFFF&dates=FFFFFF" width="95%"/>
 
 </td>
 
