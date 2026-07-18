@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ffffff,50:ede9fe,100:6C63FF&height=120&section=header"/>
+<img src="https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif"/>
 
-### Hi, I'm <span style="color:#6C63FF;">Prem Panchal</span>
+# 👋 Hi, I'm <span style="color:#6C63FF;">Prem Panchal</span>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&width=650&lines=Final+Year+Software+Engineering+Student;Building+My+Developer+Journey;Web+Development+%7C+DSA+%7C+AI;UI%2FUX+%7C+Prompt+Engineering;Think.+Code.+Create.+Deploy." />
 
@@ -10,6 +10,15 @@
 
 ---
 
+<div align="center">
+
+### 🚀 Think. Code. Create. Deploy.
+
+> Final-year B.Tech Computer Science & Technology student focused on placement preparation, personal development and building with modern technologies.
+
+</div>
+
+---
 
 ## 👨‍💻 About Me
 
