@@ -5,7 +5,7 @@
 
 
 
-# 👋 Hi, I'm <span style="color:#6C63FF;">Prem Panchal</span>
+# 👋 Hi, I'm <span style="color:#6C63FF;" align="center">Prem Panchal</span>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&width=650&lines=Final+Year+Software+Engineering+Student;Building+My+Developer+Journey;Web+Development+%7C+DSA+%7C+AI;UI%2FUX+%7C+Prompt+Engineering;Think.+Code.+Create.+Deploy." />
 
