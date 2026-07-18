@@ -10,15 +10,6 @@
 
 ---
 
-<div align="center">
-
-### 🚀 Think. Code. Create. Deploy.
-
-> Final-year B.Tech Computer Science & Technology student focused on placement preparation, personal development and building with modern technologies.
-
-</div>
-
----
 
 ## 👨‍💻 About Me
 
