@@ -260,8 +260,9 @@ while (learning) {
 }
 ```
 </td> <td width="33%" valign="top">
+
+### 🤖 Explore
 ```text
-🤖 Explore
 AI
 Prompt Engineering
 Modern AI Tools
@@ -269,8 +270,9 @@ Automation
 New Technologies
 ```
 </td> <td width="33%" valign="top">
+
+### 🎨 Design
 ```text
-🎨 Design
 UI/UX
 Figma
 Canva
