@@ -68,13 +68,9 @@ I enjoy building projects, learning through practical implementation and explori
 
 <img src="https://skillicons.dev/icons?i=java,js,cpp" />
 
-<br><br>
-
 ## 🌐 Web Development & Frameworks
 
 <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express" />
-
-<br><br>
 
 ## 🗄️ Databases & Cloud
 
