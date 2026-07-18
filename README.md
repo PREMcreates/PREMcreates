@@ -248,7 +248,7 @@ A simple and intuitive task management application to track progress and organiz
 <table>
 <tr>
 
-<td width="33%" valign="top">
+<td width="40%" valign="top">
 
 ### 💻 Code
 
@@ -259,7 +259,7 @@ while (learning) {
     repeat();
 }
 ```
-</td> <td width="33%" valign="top">
+</td> <td width="40%" valign="top">
 
 ### 🤖 Explore
 ```text
@@ -269,7 +269,7 @@ Modern AI Tools
 Automation
 New Technologies
 ```
-</td> <td width="33%" valign="top">
+</td> <td width="40%" valign="top">
 
 ### 🎨 Design
 ```text
