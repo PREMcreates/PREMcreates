@@ -280,7 +280,7 @@ Product Thinking
 
 
 </div> <br> <div align="center">
-<p> <b><font size="18px">I learn by building, explore by experimenting and grow by continuously improving.</font></b> </p>
+<p font-size="18px"><b> I learn by building, explore by experimenting and grow by continuously improving.</b> </p>
 </div>
 
 
