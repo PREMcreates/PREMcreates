@@ -288,9 +288,8 @@ Product Thinking
 
 <div align="center">
 ```text
-<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=PREMcreates&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=tokyonight&bg_color=0D1117&title_color=6C63FF&icon_color=8B5CF6&text_color=FFFFFF"/>
-```
-```text
+<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=PREMcreates&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=tokyonight&bg_color=0D1117&title_color=6C63FF&icon_color=8B5CF6&text_color=FFFFFF"/> 
+
 <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=PREMcreates&layout=compact&hide_border=true&theme=tokyonight&bg_color=0D1117&title_color=6C63FF&text_color=FFFFFF"/>
 ```
 ```text
