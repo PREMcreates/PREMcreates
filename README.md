@@ -115,7 +115,7 @@ AI-powered platform designed to help users explore AI Product Engineering and mo
 
 <img src="assets/Project_AIMentorHub.png" width="100%">
 
-**Tech:** Web Development • AI • UI/UX
+**Tech:** Web Development • AI • UI/UX • N8N • Prompt Writing
 
 <br>
 
@@ -137,7 +137,7 @@ A clean and user-friendly online bookstore interface for discovering and explori
 
 <img src="assets/Project_Bookhaven.png" width="100%">
 
-**Tech:** HTML • CSS • JavaScript
+**Tech:** HTML • CSS • JavaScript • Vibe Coding 
 
 <br>
 
