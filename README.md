@@ -171,7 +171,7 @@ A simple and intuitive task management application to track progress and organiz
 <img src="https://img.shields.io/badge/🚀%20Live%20Demo-6C63FF?style=for-the-badge">
 </a>
 
-<a href="https://github.com/PREMcreates/IBMSkillsBuild_Internship_FinalProject/tree/main/Final%20Project">
+<a href="https://github.com/PREMcreates/Web-TaskManager">
 <img src="https://img.shields.io/badge/💻%20GitHub-111827?style=for-the-badge&logo=github">
 </a>
 
