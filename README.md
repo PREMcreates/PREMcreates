@@ -113,7 +113,7 @@ I enjoy building projects, learning through practical implementation and explori
 
 AI-powered platform designed to help users explore AI Product Engineering and modern AI workflows.
 
-<img src="assets/ai-mentor-hub.png" width="100%">
+<img src="assets/Project_AIMentorHub.png" width="100%">
 
 **Tech:** Web Development • AI • UI/UX
 
@@ -135,7 +135,7 @@ AI-powered platform designed to help users explore AI Product Engineering and mo
 
 A clean and user-friendly online bookstore interface for discovering and exploring books.
 
-<img src="assets/bookhaven.png" width="100%">
+<img src="assets/Project_Bookhaven.png" width="100%">
 
 **Tech:** HTML • CSS • JavaScript
 
@@ -161,7 +161,7 @@ A clean and user-friendly online bookstore interface for discovering and explori
 
 A simple and intuitive task management application to track progress and organize daily tasks.
 
-<img src="assets/task-manager.png" width="100%">
+<img src="assets/Project_TaskManager.png" width="100%">
 
 **Tech:** HTML • CSS • JavaScript
 
