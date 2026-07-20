@@ -323,7 +323,7 @@ Product Thinking
 <div align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=PREMcreates&bg_color=0D1117&color=FFFFFF&line=6C63FF&point=FFFFFF&area=true&hide_border=true" width="95%"> </div> <br> <div align="center">
 
 ### 🧠 Every Contribution Is One Step Forward
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=PREMcreates&theme=tokyonight" width="95%"> </div>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=PREMcreates&theme=tokyonight" width="100%"> </div>
 
 ### 🌐 Connect With Me
 <div align="center"> <a href="https://www.linkedin.com/in/prempanchal05/"> <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"> </a> <a href="https://www.instagram.com/bhaktipathik.hai.prem/"> <img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white"> </a> <a href="https://leetcode.com/u/PREMcreates/"> <img src="https://img.shields.io/badge/LeetCode-Solve-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"> </a> <a href="mailto:prempanchal0501@gmail.com"> <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"> </a> </div>
