@@ -308,7 +308,7 @@ Product Thinking
 
 ### 🔥 GitHub Streak
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=PREMcreates&theme=tokyonight&hide_border=true&background=0D1117&ring=6C63FF&fire=8B5CF6&currStreakLabel=6C63FF&sideLabels=FFFFFF&dates=FFFFFF" width="95%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=PREMcreates&theme=tokyonight&hide_border=true&background=0D1117&ring=6C63FF&fire=8B5CF6&currStreakLabel=6C63FF&sideLabels=FFFFFF&dates=FFFFFF" width="100%"/>
 
 </td>
 
