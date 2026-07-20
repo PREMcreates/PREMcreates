@@ -320,7 +320,8 @@ Product Thinking
 
 
 ### 📈 My GitHub Activity
-<div align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=PREMcreates&bg_color=0D1117&color=FFFFFF&line=6C63FF&point=FFFFFF&area=true&hide_border=true" width="95%"> </div> <br> <div align="center">
+<div align="center"> 
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=PREMcreates&bg_color=0D1117&color=FFFFFF&line=6C63FF&point=FFFFFF&area=true&hide_border=true" width="100%"> </div> <br> <div align="center">
 
 ### 🧠 Every Contribution Is One Step Forward
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=PREMcreates&theme=tokyonight" width="100%"> </div>
